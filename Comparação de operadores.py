@@ -15,3 +15,6 @@
 #>>> x < y < z #Equivalente a (x < y) and (y <z)
 #True
 
+#Comparação de igualdade
+#>>> x == z
+#False
